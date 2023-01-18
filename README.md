@@ -8,7 +8,7 @@ Endpoints for allemps apllication
 - install virtual environment
     `pip3 install virtualenv`
 - clone repository
-    `git clone https://github.com/marcrine-geek/AllEmpsAPIs.git`
+    `git clone https://github.com/marcrine-geek/BeautyBackendService.git`
 - navigate to project directory
     `cd AllEmpsAPIs`
 - virtual environment activation

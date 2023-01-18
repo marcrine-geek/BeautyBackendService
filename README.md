@@ -1,5 +1,5 @@
 # AllEmpsAPIs
-Endpoints for allemps apllication
+Endpoints for Beauty Parlor apllication
 
 # Deployed API
 `https://allempservice.onrender.com`
